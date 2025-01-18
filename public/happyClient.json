@@ -1,0 +1,28 @@
+{
+    "client_feedback": [
+        {
+            "client_id": 1,
+            "name": "John Doe",
+            "feedback": "The service was excellent, and the team was very professional. I will definitely recommend it to others.",
+            "rating": 5
+        },
+        {
+            "client_id": 2,
+            "name": "Jane Smith",
+            "feedback": "Good experience, but there is room for improvement in customer support. Overall, satisfied.",
+            "rating": 4
+        },
+        {
+            "client_id": 3,
+            "name": "Michael Brown",
+            "feedback": "I am very happy with the results. The product met all my expectations.",
+            "rating": 5
+        },
+        {
+            "client_id": 4,
+            "name": "Emily Davis",
+            "feedback": "I faced some issues with the delivery time, but the product quality was good. Could improve logistics.",
+            "rating": 3
+        }
+    ]
+}
